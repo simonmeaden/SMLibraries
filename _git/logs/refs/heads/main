@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 317fc9b4bf70b7b94b3201e7e4d702e96153e1d7 Simon Meaden <simon.meaden@virginmedia.com> 1595325155 +0100	commit (initial): Initial commit after I idiotically deleted it all.
+317fc9b4bf70b7b94b3201e7e4d702e96153e1d7 857b62e5b1876793df641f39811c13ab1f89f93f Simon Meaden <simon.meaden@virginmedia.com> 1595327953 +0100	commit: labelledlineedit.cpp added.
+857b62e5b1876793df641f39811c13ab1f89f93f 2556b2a153d70e2ad298424742807d7b76afdf63 Simon Meaden <simon.meaden@virginmedia.com> 1595365986 +0100	commit: Daily update.
+2556b2a153d70e2ad298424742807d7b76afdf63 b701b20ca06ff62e613e25616784cc00d8e58551 Simon Meaden <simon.meaden@virginmedia.com> 1595608859 +0100	commit: Expanded test/example application.
+b701b20ca06ff62e613e25616784cc00d8e58551 77bba95dab699cd6bef94047f2ec45a2d359d5c9 Simon Meaden <simon.meaden@virginmedia.com> 1595612139 +0100	commit: More testing of setStyleSheet(), setLabelStyleSheet()and
+77bba95dab699cd6bef94047f2ec45a2d359d5c9 e4eaf9cd6d4162a079554819830544071bc16013 Simon Meaden <simon.meaden@virginmedia.com> 1595670846 +0100	commit: Buyg fixes.
+e4eaf9cd6d4162a079554819830544071bc16013 c859287f292e256a5f0a14f2e37188e054a22611 Simon Meaden <simon.meaden@virginmedia.com> 1595680252 +0100	commit: Changed AbstractAlignableLabelledWidget to a AlignableWidgetInterface
+c859287f292e256a5f0a14f2e37188e054a22611 392f58e39af91de2a39c563f274d73c89d27ef7b Simon Meaden <simon.meaden@virginmedia.com> 1595748396 +0100	commit: Added testing for ExTabWidget.
+392f58e39af91de2a39c563f274d73c89d27ef7b 73177ddd9217693b20898e55415a5ddb8668e8ee Simon Meaden <simon.meaden@virginmedia.com> 1595842067 +0100	commit: Added LabelledDoubleSpinBox.
+73177ddd9217693b20898e55415a5ddb8668e8ee 8d49dc1fe6305fc9f9987a32c330e5fc71c80d10 Simon Meaden <simon.meaden@virginmedia.com> 1595857938 +0100	commit: Completed testing LabelledDoubleSpinBox.
+8d49dc1fe6305fc9f9987a32c330e5fc71c80d10 ac36fbf7b911278e7e063683ad424e84afb98c7a Simon Meaden <simon.meaden@virginmedia.com> 1595931716 +0100	commit: Completed testing of labelled widgets, ExSpinBox, fixing various bugs.
+ac36fbf7b911278e7e063683ad424e84afb98c7a 9a0382c0f04df3247670f4108a764212a6bd6e34 Simon Meaden <simon.meaden@virginmedia.com> 1596264673 +0100	commit: partially modified to allow use of Qt stylesheets.
+9a0382c0f04df3247670f4108a764212a6bd6e34 63ce9bfffcb3505a8a084190f3c559f4edba2d77 Simon Meaden <simon.meaden@virginmedia.com> 1596525301 +0100	commit: Daily update. Created widgets for clock, login and messages rather than
+63ce9bfffcb3505a8a084190f3c559f4edba2d77 aaa3847497bb1640958c0b1d9c4b3883350be4bb Simon Meaden <simon.meaden@virginmedia.com> 1596537508 +0100	commit: ClockWidget partially working (shows time+seconds but wrong size and
+aaa3847497bb1640958c0b1d9c4b3883350be4bb 46bd7f65b89ff7710ce017f3be52c05aed6d8c5a Simon Meaden <simon.meaden@virginmedia.com> 1596792172 +0100	commit: ClockWidget working including (mostly) stylesheet stuff.
+46bd7f65b89ff7710ce017f3be52c05aed6d8c5a 3f9fc5771346091151d113fee476ffa5d7127eed Simon Meaden <simon.meaden@virginmedia.com> 1596877724 +0100	commit: LoginWidget displays.
+3f9fc5771346091151d113fee476ffa5d7127eed d1e70ca8879ec6f9c1758fe9a0eba9c552ac0819 Simon Meaden <simon.meaden@virginmedia.com> 1596904247 +0100	commit: LoginWidget/Dialog working for Simple and Standard login.
+d1e70ca8879ec6f9c1758fe9a0eba9c552ac0819 9ec7bec64be382ea541dfdaded09c4067d16678f Simon Meaden <simon.meaden@virginmedia.com> 1598610318 +0100	commit: LoginWidget, ClockWidget and MessageWidget working. Stylesheets can be
+9ec7bec64be382ea541dfdaded09c4067d16678f 296d1179e633a2cbaad759e5a672178d9a9e690b Simon Meaden <simon.meaden@virginmedia.com> 1614097026 +0000	commit: Various changes made to replace lost modified files.
+296d1179e633a2cbaad759e5a672178d9a9e690b 454aad0dda02280061539e98379db8f2c6c356ca Simon Meaden <simon.meaden@virginmedia.com> 1620717893 +0100	commit: ExTabWidget removed (temporarily).
+454aad0dda02280061539e98379db8f2c6c356ca a2ffb92556a54e7a978b25ec62ba98f772778d6d Simon Meaden <simon.meaden@virginmedia.com> 1620718456 +0100	commit: ExTabWidget moved to different library.
+a2ffb92556a54e7a978b25ec62ba98f772778d6d ad474a6f2eebc1f620cb0c22ed67932ee7292868 Simon Meaden <simon.meaden@virginmedia.com> 1622815871 +0100	commit: Coverted to a cmake project with doxygen documentation.
+ad474a6f2eebc1f620cb0c22ed67932ee7292868 dbc7ff93dbdf87d201c5a1a81cffe85b97ac5483 Simon Meaden <simon.meaden@virginmedia.com> 1622816938 +0100	commit: Updated some of the comments to fix documentation bugs.
+dbc7ff93dbdf87d201c5a1a81cffe85b97ac5483 2bed1fb1434aed2876e7c5a09d0fc810d6d12683 Simon Meaden <simon.meaden@virginmedia.com> 1622817082 +0100	commit (amend): Updated some of the comments to fix documentation bugs.
+2bed1fb1434aed2876e7c5a09d0fc810d6d12683 0159aa0a7c7fd867fe93d9f3eae510a042efc917 Simon Meaden <simon.meaden@virginmedia.com> 1622817191 +0100	pull: Merge made by the 'recursive' strategy.
+0159aa0a7c7fd867fe93d9f3eae510a042efc917 aa20771b590d0c333bf00fb754afd8ddbc9af6ee Simon Meaden <simon.meaden@virginmedia.com> 1622888303 +0100	commit: Reinitialising project SMLibraries
+aa20771b590d0c333bf00fb754afd8ddbc9af6ee aa20771b590d0c333bf00fb754afd8ddbc9af6ee Simon Meaden <simon.meaden@virginmedia.com> 1622888447 +0100	Branch: renamed refs/heads/master to refs/heads/main
